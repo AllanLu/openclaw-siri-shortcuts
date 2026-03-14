@@ -61,35 +61,33 @@ openclaw:main
 
 # 🚀 How to Use
 
+### 1️⃣ Start the Assistant
+
 Say:
 
 ```
-Hey Siri, OpenclawForSiri
+Hey Siri, OpenclawSiri
 ```
 
-Then start chatting.
+Siri will connect to your local OpenClaw server and begin the conversation.
 
-You can rename the shortcut to anything you like.
-For example:
+You can rename the shortcut to any name you prefer. For example:
 
 ```
 Hey Siri, My AI
 ```
 
-Avoid using special characters in the shortcut name.
+⚠️ Avoid special characters in the shortcut name to improve recognition accuracy.
 
 You can also tap the shortcut manually for text-based interaction.
 
 ---
 
-# 💬 Conversation Commands
-
-During chat:
+### 2️⃣ During Conversation
 
 - Say **"Quit"** → Exit and return to default Siri
 
-✅ You can edit these command keywords inside the shortcut to match your personal preference.
-For example, you can change "Quit" to "Exit", "Stop", or any custom phrase you like.
+✅ Command keywords can be customized inside the shortcut (e.g., change "Quit" to "Exit", "Stop", or any phrase you prefer).
 
 ---
 
